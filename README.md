@@ -4,6 +4,14 @@
 
 This repository, part of the **Hack The Box AI Red Teamer Path**, focuses on **Prompt Injection** attacks targeting **AI endpoints**. Prompt injection manipulates AI model inputs to achieve unintended or malicious behaviors. This project explores how prompt injection can exploit vulnerabilities in AI systems, demonstrating attack techniques, their impact, and strategies to mitigate these risks.
 
+---
+
+## Table of Contents
+
+1. [Introduction to Prompt Injection](intro.md)
+
+---
+
 ## Objectives
 
 - Investigate prompt injection attacks on AI endpoints.
