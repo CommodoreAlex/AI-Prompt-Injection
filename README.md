@@ -8,6 +8,7 @@ This repository, part of the **Hack The Box AI Red Teamer Path**, focuses on **P
 
 ## Table of Contents
 
+2. [What is AI Prompt Injection?](intro.md)
 2. [Direct Prompt Injection](directinjection.md)
 3. [Indirect Prompt Injection](indirectinjection.md)
 5. [Jailbreaking Techniques 1](jailbreak.md)
