@@ -9,6 +9,7 @@ This repository, part of the **Hack The Box AI Red Teamer Path**, focuses on **P
 ## Table of Contents
 
 1. [Introduction to Prompt Injection](intro.md)
+2. [Direct Prompt Injection](directinjection.md)
 
 ---
 
