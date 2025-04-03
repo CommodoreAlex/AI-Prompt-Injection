@@ -1,6 +1,4 @@
-# Lessons Learned: Indirect Prompt Injection in AI & ML
-
-## Understanding Indirect Prompt Injection
+# Understanding Indirect Prompt Injection
 
 Indirect prompt injection attacks occur when an attacker can embed a malicious payload in a resource that is later processed by a Large Language Model (LLM). Unlike direct prompt injection, where the attacker interacts with the LLM directly, indirect prompt injection involves an intermediary medium, such as an email, a web page, or an external document.
 
